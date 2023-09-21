@@ -1,6 +1,6 @@
 # ATmega32U4--1.2--Duty-Cycle
 控制duty cycle来调整LED的亮度
-##  这个代码会让你学会  
+###  这个代码会让你学会  
 控制duty cycle来调整LED的亮度
 ##  电路图如下：  
 ![695225563352722851](https://github.com/wenxiwei00/ATmega32U4--1.2--Duty-Cycle/assets/114196821/97417075-9217-4cca-97e3-49fe3df2ea85)
